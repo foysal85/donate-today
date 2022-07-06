@@ -1,6 +1,7 @@
 body {
     font-family: 'Merriweather', serif;
     margin: 0%;
+
 }
 
 .first-section {
@@ -9,7 +10,7 @@ body {
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
-    padding-bottom: 50%;
+    padding-bottom: 40%;
 
 }
 
@@ -32,10 +33,111 @@ body {
 .donate-button {
     color: white;
     background-color: tomato;
-    padding: 10px 40px;
+    padding: 10px 20px;
     border-radius: 5%;
     text-decoration: none;
     font-size: 20px;
 
 
+
+}
+
+.donate-today h1 {
+    padding-bottom: 10px;
+
+}
+
+.donate-today {
+    text-align: center;
+
+}
+
+#dona-tion {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 70px;
+
+}
+
+.don-ate {
+    width: 150px;
+    height: 130px;
+    margin: 5%;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px;
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.disply-show {
+    display: flex;
+}
+
+#two-hundrade {
+    border-left: 4px solid tomato;
+    border-right: 4px solid tomato;
+    border-bottom: 4px solid tomato;
+    border-top: 4px solid tomato;
+    color: tomato;
+}
+
+.donate-plan {
+    padding-top: 100px;
+}
+
+.Donate-plan {
+    width: 300px;
+    height: 200px;
+    padding-left: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px;
+    border-radius: 0%;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+#color-one {
+    background-color: rgb(211, 186, 186);
+}
+
+#color-two {
+    background-color: rgb(223, 188, 194);
+}
+
+#color-three {
+    background-color: rgb(235, 207, 197);
+}
+
+.ima-ge {
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-bottom: 100px;
+    display: flex;
+}
+
+
+
+.half-width img {
+    height: 500px;
+    width: 500px;
+    margin-left: 50px;
+}
+
+.text-align {
+    text-align: center;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    font-size: 22px;
+}
+
+.ema-il {
+    background-color: bisque;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 30px;
 }
